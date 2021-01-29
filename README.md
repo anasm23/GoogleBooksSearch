@@ -10,4 +10,4 @@ first run "npm i"
 Then run "npm start" to deploy the application
 
 ## Demo
-<img src="GoogleBooksSearch/assets/Googlebooks.gif">
+<img src="GoogleBooksSearch/assets/Googlebooks.gif"/>
