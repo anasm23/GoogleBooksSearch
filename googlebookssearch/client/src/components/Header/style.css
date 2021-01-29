@@ -1,0 +1,15 @@
+.h1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    border-color: black;
+    border: 1px solid grey;
+    border-radius: 5px;
+    height: 100px;
+    background-color: #0309b4;
+    background-image: url(https://image.shutterstock.com/image-photo/blurred-bookshelf-many-old-books-260nw-1577682832.jpg);
+    height: 150px;
+}
+
+
+

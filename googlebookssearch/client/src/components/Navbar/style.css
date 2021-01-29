@@ -1,0 +1,25 @@
+.container{
+    text-align: center;
+}
+
+nav {
+    background-color: beige;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: black;
+}
+.navbar-brand {
+    font-size: 35px;
+}
+
+.nav-item1{
+    font-size: 15px;
+    position: absolute;
+    margin-left: 150px;
+}
+
+.nav-item2 {
+    font-size: 15px;
+    position: absolute;
+    margin-left: 225px;
+}
