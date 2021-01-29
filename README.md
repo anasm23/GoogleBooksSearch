@@ -2,7 +2,7 @@
 
 Google books search is an app used to find any book on google. Use this app to find your next favorite title! 
 
-Link to Deployed App:
+Link to Deployed App: 
 
 ## Instructions
 
