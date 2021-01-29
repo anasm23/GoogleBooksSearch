@@ -7,7 +7,7 @@ function Navbar() {
     return (
         <nav className="bar">
             <div className="container"></div>
-                <Link className="navbar-brand" to="/">Google Books Search</Link>
+                <Link className="navbar-brand" to="/">📚Google Books Search📚</Link>
                     
                     <button className="nav-item1">
                         <Link

@@ -1,3 +1,20 @@
 .btn1{
     margin-left: 10px;
 }
+
+.row{
+    border: 1px solid grey;
+    border-left: 6px solid red;
+  background-color: beige;
+}
+
+.link{
+    background-color: #e0e0e094;
+    border-color:black;
+  color: black;
+  padding: 1px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
