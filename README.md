@@ -1,16 +1,20 @@
 # GoogleBooksSearch
 
-Google books search is an app used to find any book on google. Use this app to find your next favorite title! 
+## Description
 
-Link to Deployed App: 
+Google books search is a MERN stack application used to display books from user search. Links are provided so that the user can purchase it or save them for later. 
+
+## Deployed Link
+https://fathomless-falls-28848.herokuapp.com/
 
 ## Instructions
 
-first run "npm i"
-
-
-Then run "npm start" to deploy the application
+  "npm i"
+  "npm start"
 
 ## Demo
 
 <img src="./assets/Googlebooks.gif" ></img>
+
+## Technologies used
+MongoDB React.js Express.js Node.js
